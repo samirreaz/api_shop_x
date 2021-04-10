@@ -1,0 +1,11 @@
+api link: https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline
+
+
+json data to dart model converter:
+https://app.quicktype.io/
+
+
+for json result view: 
+http://jsonviewer.stack.hu/
+
+
